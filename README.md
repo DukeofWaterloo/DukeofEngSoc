@@ -5,6 +5,7 @@ Throughout my 16 month term as the President of Waterloo's Engineering A-Society
 Here is a collection of meaningful contributions I was able to make throughout my involvement:
 ***
 ### Iron Pin Ceremony 
+![IronPinDeanDuke](https://github.com/DukeofWaterloo/DukeofEngSoc/assets/59591006/e3357319-3cb2-4f33-9015-651d937f0e73)
 
 As President of the Engineering Society at the University of Waterloo, I led a groundbreaking initiative to establish a new tradition within the Faculty of Engineering – the Iron Pin Ceremony. Working in close collaboration with the Dean, my Co-President and a diverse group of faculty members from various departments, I played a key role in developing a plan to create this unique and memorable ceremony to welcome new students to our faculty. 
 
@@ -23,6 +24,7 @@ My unwavering commitment to this initiative, along with my leadership, research,
  
 ***
 ### Career Drive Lead Organizer 
+![CareerDriveTesla1](https://github.com/DukeofWaterloo/DukeofEngSoc/assets/59591006/d3517023-033f-4d65-b01a-54a67dde66e5)
 
 In Fall 2022, I had the privilege of serving as the Career Drive Lead Organizer for the Engineering Society Team. During our first off-term in Spring 2022, we received a remarkable opportunity when Tesla Inc reached out directly to me and expressed their interest in engaging with our students on campus. Recognizing the significance of this opportunity, my team and I were eager to create a mutually beneficial event that would leave a lasting impact. 
 
@@ -37,6 +39,7 @@ This successful event not only strengthened the reputation of our Engineering So
   
 ***
 ### WEC Programming Director & Back-end Support 
+![WECFall2023](https://github.com/DukeofWaterloo/DukeofEngSoc/assets/59591006/9ecc12d5-8c2d-4899-a9f5-6ce436dac237)
 
 During the Fall 2022 term, my Executive team and I encountered an unexpected challenge when we couldn't fill the position for the Waterloo Engineering Competition (WEC) Chair. Undeterred, we decided to take on the responsibility ourselves and host the competition. Leveraging my background in Electrical and Computer Engineering (ECE) and past co-op experiences with coding, I enthusiastically assumed the role of Programming Director for the competition. I dedicated considerable effort in creating a compelling competition package and problem statement that would inspire participants to devise unique and technically challenging solutions. My guidance and expertise not only enhanced the competition experience but also demonstrated my commitment to fostering innovation within the Engineering community. 
 
