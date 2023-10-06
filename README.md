@@ -1,8 +1,8 @@
 # Duke of EngSoc
 
-Throughout my 16 month term as the President of Waterloo's Engineering A-Society, I am very happy to say that I have consistently strived to excel in the position and offer as much help as possible to those who needed it. The opportunity to speak with thousands of Engineering Undergraduate students both here at Waterloo and across Canada through Waterloo's involvement in ESSCO (Engineering Student Societies of Ontario) and the CFES (Canadian Federation of Engineering Students) has been instrumental in my development as a student leader. I couldn't be more grateful for the invaluable lessons I have learned, meaningful connections I have made, and limitless potential that lies before me.
+Throughout my 16-month tenure as the President of Waterloo's Engineering A-Society, I dedicated myself to achieving excellence in the role and providing valuable assistance to those in need. Engaging with thousands of Engineering Undergraduate students locally and nationally through Waterloo's participation in ESSCO (Engineering Student Societies of Ontario) and the CFES (Canadian Federation of Engineering Students) has played a pivotal role in my growth as a student leader. I'm immensely thankful for the invaluable lessons learned, meaningful connections forged, and the boundless potential that lies ahead.
 
-Here is a collection of meaningful contributions I was able to make throughout my involvement:
+Here is a compilation of the impactful contributions I made during my involvement:
 ***
 ### Iron Pin Ceremony 
 ![IronPinDeanDuke](https://github.com/DukeofWaterloo/DukeofEngSoc/assets/59591006/e3357319-3cb2-4f33-9015-651d937f0e73)
