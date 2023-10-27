@@ -17,7 +17,7 @@ One significant contribution I made to the Iron Pin Ceremony was the writing of 
 
 Collaborating with the Dean, we launched the Call for Expression of the Design for the Pin, engaging students, faculty, and staff stakeholders in the process. Thanks to our efforts, we received 27 unique Pin Design submissions and an overwhelming response from over 850 people when asked for feedback on their preferred design, demonstrating widespread enthusiasm and engagement from the engineering community. 
 
-At the present, we are holding our first batch of September Ceremonies, leveraging recent alumni and upper-year students who are eager to reflect and share their experiences, shaping the next generation of Waterloo Engineers. 
+This past September, we held our first batch of September Ceremonies, leveraging recent alumni and upper-year students who are eager to reflect and share their experiences, shaping the next generation of Waterloo Engineers. 
 
 My unwavering commitment to this initiative, along with my leadership, research, and organizational skills, has been instrumental in creating a truly transformative and meaningful tradition for our engineering community. The Iron Pin Ceremony stands as a testament to our shared values and pillars, welcoming new students into the Faculty of Engineering with a sense of pride and purpose. 
 
@@ -38,7 +38,7 @@ This successful event not only strengthened the reputation of our Engineering So
 
   
 ***
-### WEC Programming Director & Back-end Support 
+### WEC 2022 Programming Director & 2023 Back-end Support 
 ![WECFall2023](https://github.com/DukeofWaterloo/DukeofEngSoc/assets/59591006/9ecc12d5-8c2d-4899-a9f5-6ce436dac237)
 
 During the Fall 2022 term, my Executive team and I encountered an unexpected challenge when we couldn't fill the position for the Waterloo Engineering Competition (WEC) Chair. Undeterred, we decided to take on the responsibility ourselves and host the competition. Leveraging my background in Electrical and Computer Engineering (ECE) and past co-op experiences with coding, I enthusiastically assumed the role of Programming Director for the competition. I dedicated considerable effort in creating a compelling competition package and problem statement that would inspire participants to devise unique and technically challenging solutions. My guidance and expertise not only enhanced the competition experience but also demonstrated my commitment to fostering innovation within the Engineering community. 
